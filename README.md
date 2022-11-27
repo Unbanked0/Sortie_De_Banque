@@ -19,7 +19,7 @@ Niveau 2 = 4 apps
 - Agoradesk  > https://agoradesk.com/
       Achat de Bitcoin ou de Monero en P2P comme sur Leboncoin. No-KYC ok !
 - Cakewallet > https://cakewallet.com/
-      Stockage Monero (XMR) et conversion dans l'app vers adresse Bitcoin (Bitrefill par ex.)
+       Stockage Monero (XMR) et conversion dans l'app vers adresse Bitcoin (Bitrefill par ex.)
       Compatible iOS et Android
 - Bitrefill.com  OU  xxxxxx
 
