@@ -9,8 +9,8 @@ En particulier, nous formulons une proposition claire d'outils résilients face 
 ------------
 Niveau 1 = 2 apps
 -----
-- Relai.app
-- Bitrefill.com
+- Relai.app  > https://relai.app/   Achat et stockage souverain de BTC - attention : KYC indirect
+- Bitrefill.com  > https://bitrefill.com/    Dépense en carte cadeaux, en attendant le prochain service et l'amorce de la pompe
 
 Niveau 2 = 4 apps
 -----
