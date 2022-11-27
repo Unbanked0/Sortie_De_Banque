@@ -17,9 +17,9 @@ Niveau 1 = 2 apps
 Niveau 2 = 4 apps
 -----
 - Agoradesk (BTC et Monero)  > https://agoradesk.com/
-    Achat de Bitcoin ou de Monero en P2P comme sur Leboncoin. No-KYC ok !
+      Achat de Bitcoin ou de Monero en P2P comme sur Leboncoin. No-KYC ok !
 - Cakewallet (compatible iOS et Android)    > https://cakewallet.com/
-    Stockage Monero (XMR) et conversion dans l'app vers adresse Bitcoin (Bitrefill par ex.)
+      Stockage Monero (XMR) et conversion dans l'app vers adresse Bitcoin (Bitrefill par ex.)
 - Bitrefill.com  OU  xxxxxx
 
 + Session  > https://getsession.org/  : messagerie décentralisée !
@@ -31,15 +31,14 @@ Niveau 3 = 5 apps
 
 Navigateur :
 ---
-- Passer à Brave, https://brave.com/   > fuire tout ce qui est GAFAM
+- Passer à Brave > https://brave.com/  : fuir tout ce qui est GAFAM
 
 Messagerie :
 ---
-- Passer à Session  https://getsession.org/ > décentralisée, incensurable 
+- Passer à Session > https://getsession.org/  :  décentralisée, incensurable 
 
 VPN : 
 ---
-Paiement en Monero ou bien Bitcoin
-https://kycnot.me/services#VPN
+Achat en Monero ou bien Bitcoin > https://kycnot.me/services#VPN
 
 
