@@ -7,14 +7,18 @@ En particulier, nous formulons une proposition claire d'outils résilients face 
 
 3 Niveaux d'apprentissage
 ------------
-Niveau 1 : 2 apps
+Niveau 1 = 2 apps
+-----
 - Relai.app
 - Bitrefill.com
 
-Niveau 2 : 4 apps
+Niveau 2 = 4 apps
+-----
 - Agoradesk (BTC et Monero)
 - Cakewallet (compatible iOS et Android)
 - Bitrefill.com
 + Session (messagerie décentralisée)
 
-
+Niveau 3 = 6 apps
+-----
+- *à venir suite au lancement*
