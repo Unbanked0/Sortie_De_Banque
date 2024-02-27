@@ -4,20 +4,24 @@ Liste de contenus citoyens pour se débancariser progressivement et anonymement.
 Voir notre manifeste qui explique qui nous sommes et quelle est notre démarche pédagogique pour les citoyens français.
 En particulier, nous formulons une proposition claire d'outils résilients face au risque de saisie bancaire de nos épargnes dans le contexte économique actuel (Crédit et Débit Suisse, faillites d'entreprises, etc). Nov2022
 
-**Téléphone** : 
+**Téléphone**
+---
 - **Préférez vraiment Android**, plutôt que iOS qui est fermé et bloque déjà Tor.
-- Encore mieux, passer sur GrapheneOS ou bien CalyxOS
-**Ordinateur** :
+- Encore mieux, passez sur GrapheneOS ou bien CalyxOS (téléphone spécial)
+
+**Ordinateur**
+---
 - Si possible, réutilisez un ancien ordinateur et
 - installez Linux dessus avec une clé USB au démarrage (Ubuntu 22.04 est recommandé)
 
-3 Niveaux d'apprentissage
+2 Niveaux d'expérience
 ------------
 Niveau 1 - ceinture Bleue = 2 apps
 -----
 - Relai.app  > https://relai.app/   (Android et iOS
-ou PocketBitcoin  > https://pocketbitcoin.com/  (anciennement Bitkipi.com)    
-      Achat et stockage souverain de BTC - attention : KYC indirect car virement SEPA. Service Suisse puis mots-clés souverains.
+  ou PocketBitcoin  > https://pocketbitcoin.com/  (anciennement Bitkipi.com)    
+  Pour l'achat et stockage souverain de BTC - attention : KYC indirect car virement SEPA. Service Suisse puis mots-clés souverains.
+  Sur ordi : Electrum  (electrum.org/#download) ou Bitcoin Core
 - Bitrefill.com  > https://bitrefill.com/   
       Dépense en carte cadeaux (Btc uniquement), en attendant le prochain service et l'amorce de la pompe
 
