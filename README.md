@@ -8,12 +8,12 @@ En particulier, nous formulons une proposition claire d'outils résilients face 
 - Florent Ly-Machabert (économiste) - 2022
 - Courrier des Stratèges - 2023
 - Parti "Les Patriotes" - 2022 et 2023
-    #1 : https://youtu.be/Baia_Br7NJA             (82 000 vues)
-    #2 : https://youtu.be/HJzUBCMkRww&t=405       (64 000 vues)
+  -  #1 : https://youtu.be/Baia_Br7NJA             (82 000 vues)
+  -  #2 : https://youtu.be/HJzUBCMkRww&t=405       (64 000 vues)
 
 - Géopolitique Profonde : 
-- Libre & Riche : youtu.be/1u2IA9iyhl0     (32 000 vues)
-- Nicolas Bouvier : youtube.com/live/zoGSh8C056s  (11 000 vues)
+- Libre & Riche : [youtu.be/1u2IA9iyhl0](https://youtu.be/1u2IA9iyhl0)     (32 000 vues)
+- Nicolas Bouvier : [youtube.com/live/zoGSh8C056s](https://youtube.com/live/zoGSh8C056s)  (11 000 vues)
 
 **Téléphone**
 ---
