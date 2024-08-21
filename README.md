@@ -11,7 +11,7 @@ En particulier, nous formulons une proposition claire d'outils résilients face 
   -  #1 : https://youtu.be/Baia_Br7NJA             (82 000 vues)
   -  #2 : https://youtu.be/HJzUBCMkRww&t=405       (64 000 vues)
 
-- Géopolitique Profonde : 
+- Géopolitique Profonde : [youtube.com/live/sy4Sck0_TRg](https://www.youtube.com/live/sy4Sck0_TRg)  (8500 vues - débuts de la chaîne GP)
 - Libre & Riche : [youtu.be/1u2IA9iyhl0](https://youtu.be/1u2IA9iyhl0)     (32 000 vues)
 - Nicolas Bouvier : [youtube.com/live/zoGSh8C056s](https://youtube.com/live/zoGSh8C056s)  (11 000 vues)
 
