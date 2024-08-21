@@ -1,8 +1,19 @@
 # Sortie_De_Banque
-Liste de contenus citoyens pour se débancariser progressivement et anonymement. Nov2022 - MAJ Fev2024
+Liste de contenus citoyens pour se débancariser progressivement et anonymement. Création : Nov2022 - MAJ : Fev2024
 
 Voir notre manifeste qui explique qui nous sommes et quelle est notre démarche pédagogique pour les citoyens français.
 En particulier, nous formulons une proposition claire d'outils résilients face au risque de saisie bancaire de nos épargnes dans le contexte économique actuel (Crédit et Débit Suisse, faillites d'entreprises, etc). Nov2022
+
+**Nos interviews publiques**
+- Florent Ly-Machabert (économiste) - 2022
+- Courrier des Stratèges - 2023
+- Parti "Les Patriotes" - 2022 et 2023
+    #1 : https://youtu.be/Baia_Br7NJA             (82 000 vues)
+    #2 : https://youtu.be/HJzUBCMkRww&t=405       (64 000 vues)
+
+- Géopolitique Profonde : 
+- Libre & Riche : youtu.be/1u2IA9iyhl0     (32 000 vues)
+- Nicolas Bouvier : youtube.com/live/zoGSh8C056s  (11 000 vues)
 
 **Téléphone**
 ---
@@ -18,8 +29,8 @@ En particulier, nous formulons une proposition claire d'outils résilients face 
 ------------
 Niveau 1 - ceinture Bleue = 2 apps
 -----
-- Relai.app  > https://relai.app/   (Android et iOS
-  ou PocketBitcoin  > https://pocketbitcoin.com/  (anciennement Bitkipi.com)    
+- Relai.app  > https://relai.app/   (Android et iOS) - Attention demande d'identité désormais depuis Aout 2024
+  = Préférer PocketBitcoin  > https://pocketbitcoin.com/  (anciennement Bitkipi.com)    
   Pour l'achat et stockage souverain de BTC - attention : KYC indirect car virement SEPA. Service Suisse puis mots-clés souverains.
   Sur ordi : Electrum  (electrum.org/#download) ou Bitcoin Core
 - Bitrefill.com  > https://bitrefill.com/   
