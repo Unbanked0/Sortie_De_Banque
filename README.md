@@ -4,6 +4,17 @@ Liste de contenus citoyens pour se débancariser progressivement et anonymement.
 Voir notre manifeste qui explique qui nous sommes et quelle est notre démarche pédagogique pour les citoyens français.
 En particulier, nous formulons une proposition claire d'outils résilients face au risque de saisie bancaire de nos épargnes dans le contexte économique actuel (Crédit et Débit Suisse, faillites d'entreprises, etc). Nov2022
 
+**Nos TUTOS**
+- Bitcoin avec PocketBitcoin (ex Bitkipi) : https://youtu.be/KdOUsj649Jo&t=1311   (20 min, à 21" min)
+- Bitcoin avec Relai : https://www.youtube.com/live/hESmJ9Amq7w&t=2428
+- Monero en 15 min avec CakeWallet ! : https://youtu.be/e7dywiZIpWg
+- Cagnotte KUNO incensurable : https://youtu.be/76vxvYrFar4   (12 min)
+- Réseau NOSTR incensurable : https://youtu.be/yHMxIHuUu1w   (14 min)
+- Cartes cadeaux Bitrefill : https://youtu.be/Ru0ZSw1zyWg   (5 min)
+- Messagerie Session (getSession.org) : 
+- Conversion crypto :
+- Noeud :
+
 **Nos interviews publiques**
 - Florent Ly-Machabert (économiste) - 2022
 - Courrier des Stratèges - 2023
