@@ -1,0 +1,90 @@
+
+
+Mémo création manuelle de seed phrase Monero :
+
+Super mémo :
+I. Bytes to words:
+4 octets d'entropie
+w0 = Endian swap puis conversion décimale des octets
+w1 = w0 % B
+w2 = (w0 // B + w1) % B
+w3 = ((w0 // B) // B + w2) % B
+Convertir indices en mots
+Boucle 8x = 24 mots 
+Checksum CRC32
+
+II : Words to bytes:
+Supprimer checksum (dernier mot)
+Former 8 paquets de 3 mots 
+Convertir mots en indices
+w0 = w1 + (B * (((B − w1) + w2) % B)) + (B² * (((B − w2) + w3) % B))
+Vérifier que w0 % B = w1
+Octets = Conversion hexadécimale puis endian swap de w0
+Boucle 8x = 32 octets = 256 bits
+
+
+
+English wordlist :
+https://github.com/monero-project/monero/blob/master/src/mnemonics/english.h
+All wordlists : 
+https://github.com/monero-project/monero/tree/master/src/mnemonics
+
+Légende :
+w[0] = racine servant au calcul des mots
+w[1] = mot n°1 (etc.)
+Base = "word_list_length" = Base 1626
+% = Modulo (= reste de la division euclidienne)
+// = Quotient entier (= résultat de la division tronqué à l'unité)
+
+
+
+I. Bytes to words :
+Code source (lignes 403 à 425) : 
+https://github.com/monero-project/monero/blob/9367b432f69869dd02ca4f0b1feceb2674e4cd3b/src/mnemonics/electrum-words.cpp#L403-L425
+
+1. Génération de 4 octets d'entropie :
+10001010  01011101  00100100  01010010
+8A                5D                24                52
+
+2. Calcul "w[0]" :
+w[0] = Endian swap + conversion décimale
+Endian swap : 8A 5D 24 52 = 52 24 5D 8A
+Conversion décimale : 52245D8A = 1378114954
+w[0] = 1378114954
+
+3. Calcul "w[1]" :
+w[1] = w[0] % Base
+w[1] = 1378114954 % 1626
+w[1] = 280 
+
+4. Calcul "w[2]" :
+w[2] = (w[0] // Base + w[1]) % Base
+w[2] = (1378114954 // 1626 + 280) % 1626
+w[2] = (847549 + 280) % 1626
+w[2] = 847829 % 1626
+w[2] = 683 
+
+5. Calcul "w[3]" :
+w[3] = ((w[0] // Base) // Base + w[2]) % Base
+w[3] = ((1378114954 // 1626) // 1626 + 683) % 1626
+w[3] = (847549 // 1626 + 683) % 1626
+w[3] = (521 + 683) % 1626
+w[3] = 1204 % 1626
+w[3] = 1204 
+
+6. Convertir les indices obtenus par les mots correspondants dans la wordlist officielle (ici en anglais) :
+w[1] = 280 = CYCLING
+w[2] = 683 = INUNDATE
+w[3] = 1204 = RUSTLED
+
+7. Recommencer 8 fois en boucle pour obtenir 24 mots.
+
+8. Calculer le checksum des 24 mots avec un hash CRC32.
+
+
+
+II. Words to bytes :
+Code source (lignes 264 à 347) :
+https://github.com/monero-project/monero/blob/9367b432f69869dd02ca4f0b1feceb2674e4cd3b/src/mnemonics/electrum-words.cpp#L264-L347
+
+Pour le calcul, se référer au super mémo.
