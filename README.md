@@ -1,12 +1,11 @@
 # Sortie_De_Banque
-Liste de contenus citoyens pour se débancariser progressivement et anonymement. Création : Nov2022 - MAJ : Fev2024
+Liste de contenus citoyens pour se débancariser progressivement et anonymement. Création : Nov2022 - MAJ : Janv2025
 
 Voir notre manifeste qui explique qui nous sommes et quelle est notre démarche pédagogique pour les citoyens français.
 En particulier, nous formulons une proposition claire d'outils résilients face au risque de saisie bancaire de nos épargnes dans le contexte économique actuel (Crédit et Débit Suisse, faillites d'entreprises, etc). Nov2022
 
 **Nos TUTOS**
 - Bitcoin avec PocketBitcoin (ex Bitkipi) : https://youtu.be/KdOUsj649Jo&t=1311   (20 min, à 21" min)
-- Bitcoin avec Relai : https://www.youtube.com/live/hESmJ9Amq7w&t=2428
 - Monero en 15 min avec CakeWallet ! : https://youtu.be/e7dywiZIpWg
 - Cagnotte KUNO incensurable : https://youtu.be/76vxvYrFar4   (12 min)
 - Réseau NOSTR incensurable : https://youtu.be/yHMxIHuUu1w   (14 min)
@@ -40,7 +39,7 @@ En particulier, nous formulons une proposition claire d'outils résilients face 
 ------------
 Niveau 1 - ceinture Bleue = 2 apps
 -----
-- Relai.app  > https://relai.app/   (Android et iOS) - Attention demande d'identité désormais depuis Aout 2024
+- PocketBitcoin  > https://pocketbitcoin.com/   (Android et iOS) - Attention demande d'identité désormais depuis Aout 2024
   = Préférer PocketBitcoin  > https://pocketbitcoin.com/  (anciennement Bitkipi.com)    
   Pour l'achat et stockage souverain de BTC - attention : KYC indirect car virement SEPA. Service Suisse puis mots-clés souverains.
   Sur ordi : Electrum  (electrum.org/#download) ou Bitcoin Core
@@ -49,14 +48,15 @@ Niveau 1 - ceinture Bleue = 2 apps
 
 Niveau 2 - ceinture Noire = 4 apps
 -----
-- Agoradesk  > https://agoradesk.com/   
+- RetoSwap  > https://retoswap.com/   
       Achat de Bitcoin ou de Monero en P2P comme sur Leboncoin. No-KYC ok !
 - Cakewallet > https://cakewallet.com/app/   
       Stockage Bitcoin/Monero et conversion dans l'app vers adresse Bitcoin (Bitrefill par ex.)
       Compatible iOS et Android.   Alternative : Monerujo.io
-- Bitrefill.com  ou  CoinDebit.io
+- Bitrefill.com ou Monezon.com
 
 + Session  > https://getsession.org/  : messagerie décentralisée !
++ NOSTR  > app Amethyst (ou Damus sur iOS, à éviter)
 
 Navigateur :
 ---
